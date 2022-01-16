@@ -2,4 +2,4 @@
 
 Snake game implemented with ncurses
 
-![alt text](https://imgur.com/zNEN5aK)
+![alt text](https://i.imgur.com/zNEN5aK.png)
